@@ -58,14 +58,16 @@ https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076208/15m
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540075819/15mindvrm0149cad9cb9407404bb42b95eb0653304b20august2026/master_ap.m3u8?a=ns&hdnea=exp=1787224085~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540075819/15mindvrm0149cad9cb9407404bb42b95eb0653304b20august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=QpTSXBzOkwybYafVQRqzaerpGB6nGI6BFVaWMnvKMZCV-did=1AVtbxXvALa6ed55VakA6o2tHoDbDQJko4XkBkItoCpQ-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.02.11.2-ut=paid-ttl=1800-type=paid-raf=1787222885-~hmac=ca2c977d48cb6acda80a81bd595b642d25b1bc80e2680e50cc58faf94cd5c100
-#DATE:- 20-08-2026 15:00
+#DATE:- 20-08-2026 16:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090539798" tvg-name="Pakistan Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Day 2 - 1st Test - 20 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_2008/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5c765c4ea5487ef56f6eb8ea8fb58844-1787218202076
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_2008/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=66242a8e9cee49c36712ca50bd65eed2-1787224202674
+#EXTINF:-1 tvg-id="1090539821" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg" group-title="SonyLiv | Golf",Nexo Championship - Day 1 - 20 Aug 2026
+https://dai.google.com/ssai/event/1YqiUmA4R4-LmpAzBeHabQ/master.m3u8?hdnea=exp=1787267432~acl=/*~id=66242a8e9cee49c36712ca50bd65eed2-1787224202674~hmac=426c679aadbfe623f3f22ae99ca160dc99ff0506ade20b8a0e96a6dea791b2f1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=66242a8e9cee49c36712ca50bd65eed2-1787224202674
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 20 August 2026 at 4:21:20 pm
+#DATE:- Thursday, 20 August 2026 at 4:49:19 pm
 #EXTINF:-1 tvg-id="4248331" tvg-name="Gaur Gorakhpur Lions Vs Noida Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Gaur Gorakhpur Lions Vs Noida Kings
 https://dai-fancode.pages.dev/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248331" tvg-name="Gaur Gorakhpur Lions Vs Noida Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png" tvg-language="Bhojpuri" group-title="FanCode | Cricket",BHO | Gaur Gorakhpur Lions Vs Noida Kings
